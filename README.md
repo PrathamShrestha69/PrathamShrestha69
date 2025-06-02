@@ -1,11 +1,13 @@
 <h1 align="left" style="color: blue;">Hey 👋 What's up?</h1>
 
-<p align="left">
-  <span style="color: #ADD8E6;">
-    My name is Pratham Shrestha and I'm a MERN stack developer.
-  </span>
-  <img src="https://octodex.github.com/images/NUX_Octodex.gif" align="right" width="100" alt="Octodex GIF">
+<p align="left" style="color: #ADD8E6;">
+  My name is Pratham Shrestha and I'm a MERN stack developer.
 </p>
+
+<p align="right">
+  <img src="https://octodex.github.com/images/NUX_Octodex.gif" width="120" alt="Octodex GIF" />
+</p>
+
 
 
 <h2 align="left" style="color: #ADD8E6;">About me</h2>
