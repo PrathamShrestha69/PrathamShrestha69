@@ -3,7 +3,12 @@
 <p align="left" style="color: #ADD8E6;">
   My name is Pratham Shrestha and I'm a MERN stack developer.
 </p>
+##
+<div align="right">
+  <img height="200" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg4NDA2NzIsIm5iZiI6MTc0ODg0MDM3MiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjAyVDA0NTkzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTliNjI2ODkwYWI0ODAxNzViOWNjZGNkM2JhM2IyMmYzNzc5NDZiOTQ1YTgxNmY3YTg0OGVhYjgwZjRhNmY3N2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.R3XBMQ-8gDrgNPlooRsfRYNg5WMbblNLQlaPvwgiQ1Y"  />
+</div>
 
+###
 
 <h2 align="left" style="color: #ADD8E6;">About me</h2>
 
