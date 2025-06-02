@@ -1,5 +1,3 @@
-<h1 align="left" style="color: blue;">Hey 👋 What's up?</h1>
-
 <p align="left" style="color: #ADD8E6;">
   My name is Pratham Shrestha and I'm a MERN stack developer.
 </p>
