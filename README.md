@@ -1,16 +1,11 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left" style="color: #ADD8E6;">Hey 👋 What's up?</h1>
 
-###
+<p align="left" style="color: #ADD8E6;">My name is Pratham Shrestha and I'm a MERN stack developer.</p>
 
-<p align="left">My name is Pratham Shrestha and I'm a MERN stack developer.</p>
+<h2 align="left" style="color: #ADD8E6;">About me</h2>
 
-###
+<p align="left" style="color: #ADD8E6;">✨ Creating bugs since 2023<br>📚 I'm currently learning BCS</p>
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning BCS</p>
 
 ###
 
