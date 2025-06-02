@@ -4,13 +4,6 @@
   My name is Pratham Shrestha and I'm a MERN stack developer.
 </p>
 
-<div align="center">
-  <img height="200" src="https://octodex.github.com/images/NUX_Octodex.gif"  />
-</div>
-
-###
-
-
 
 <h2 align="left" style="color: #ADD8E6;">About me</h2>
 
