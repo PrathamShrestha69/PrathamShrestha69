@@ -38,10 +38,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=PrathamShrestha69&theme=gruvbox_light" alt="Layout with last medium posts"  />
-</div>
-
-###
