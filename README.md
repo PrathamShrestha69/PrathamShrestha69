@@ -11,7 +11,7 @@
 
 <h2 align="left" style="color: #ADD8E6;">About me</h2>
 
-<p align="left" style="color: #ADD8E6;">✨ Creating bugs since 2023<br>📚 I'm currently learning BCS</p>
+<p align="left" style="color: #ADD8E6;">✨ Creating bugs since 2023
 
 
 ###
