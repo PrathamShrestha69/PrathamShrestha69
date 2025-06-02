@@ -12,6 +12,9 @@
 <h2 align="left" style="color: #ADD8E6;">About me</h2>
 
 <p align="left" style="color: #ADD8E6;">✨ Creating bugs since 2023
+<p align="left" style="color: #ADD8E6;">💻 Learing MERN stack
+<p align="left" style="color: #ADD8E6;">🤖 Delusional af
+<p align="left" style="color: #ADD8E6;">😭 Capturing memories through eyes
 
 
 ###
