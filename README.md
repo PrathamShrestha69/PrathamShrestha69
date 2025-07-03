@@ -4,15 +4,27 @@
   <meta charset="UTF-8" />
   <title>About Pratham Shrestha</title>
   <style>
+    /* Prevent text selection */
     body {
-      -webkit-user-select: none;  
-      -moz-user-select: none;     
-      -ms-user-select: none;      
-      user-select: none;         
+      -webkit-user-select: none;  /* Safari */
+      -moz-user-select: none;     /* Firefox */
+      -ms-user-select: none;      /* IE10+/Edge */
+      user-select: none;          /* Standard */
       background-color: #121212;
       color: #ADD8E6;
       font-family: Arial, sans-serif;
       padding: 20px;
+    }
+
+    /* Disable cursor text select */
+    body {
+      cursor: default;
+    }
+
+    /* Make images still selectable to allow right-click (optional) */
+    img {
+      -webkit-user-select: auto !important;
+      user-select: auto !important;
     }
   </style>
 </head>
