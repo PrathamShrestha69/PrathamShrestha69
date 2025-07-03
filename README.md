@@ -4,7 +4,6 @@
   <meta charset="UTF-8" />
   <title>About Pratham Shrestha</title>
   <style>
-   
     body {
       -webkit-user-select: none;  
       -moz-user-select: none;     
@@ -15,8 +14,6 @@
       font-family: Arial, sans-serif;
       padding: 20px;
     }
-
-    
   </style>
 </head>
 <body>
