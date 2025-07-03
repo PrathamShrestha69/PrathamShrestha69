@@ -16,16 +16,7 @@
       padding: 20px;
     }
 
-    /* Disable cursor text select */
-    body {
-      cursor: default;
-    }
-
-    /* Make images still selectable to allow right-click (optional) */
-    img {
-      -webkit-user-select: auto !important;
-      user-select: auto !important;
-    }
+    
   </style>
 </head>
 <body>
