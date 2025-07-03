@@ -4,12 +4,12 @@
   <meta charset="UTF-8" />
   <title>About Pratham Shrestha</title>
   <style>
-    /* Prevent text selection */
+   
     body {
-      -webkit-user-select: none;  /* Safari */
-      -moz-user-select: none;     /* Firefox */
-      -ms-user-select: none;      /* IE10+/Edge */
-      user-select: none;          /* Standard */
+      -webkit-user-select: none;  
+      -moz-user-select: none;     
+      -ms-user-select: none;      
+      user-select: none;         
       background-color: #121212;
       color: #ADD8E6;
       font-family: Arial, sans-serif;
