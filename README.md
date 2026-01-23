@@ -56,6 +56,10 @@
 </table>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamshrestha69&show_icons=true&locale=en&layout=compact" alt="prathamshrestha69" /></p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamshrestha69&layout=compact&theme=github_dark&hide_border=true"
+    alt="prathamshrestha69"
+  />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamshrestha69&" alt="prathamshrestha69" /></p>
