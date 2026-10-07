@@ -1,18 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="LIVE STATS">
-<defs>
-<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00f0ff"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#ff2bd6"/></linearGradient>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#05010f"/><stop offset=".5" stop-color="#14063d"/><stop offset="1" stop-color="#05010f"/></linearGradient>
-<linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00f0ff" stop-opacity="0"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#ff2bd6" stop-opacity="0"/></linearGradient>
-<clipPath id="r"><rect width="1200" height="110" rx="18"/></clipPath>
-<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="glow2" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-</defs>
-<g clip-path="url(#r)">
-<rect width="1200" height="110" fill="url(#bg)"/>
-<text x="604.0" y="64" fill="#ff2bd6" opacity=".85" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="46" text-anchor="middle" letter-spacing="4">LIVE STATS<animate attributeName="x" dur="4.5s" repeatCount="indefinite" calcMode="discrete" values="604.0;604.0;614.0;590.0;609.0;596.0;604.0;604.0" keyTimes="0;.62;.64;.66;.68;.70;.72;1"/></text>
-<text x="596.0" y="60" fill="#00f0ff" opacity=".85" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="46" text-anchor="middle" letter-spacing="4">LIVE STATS<animate attributeName="x" dur="4.5s" repeatCount="indefinite" calcMode="discrete" values="596.0;596.0;586.0;610.0;591.0;604.0;596.0;596.0" keyTimes="0;.62;.64;.66;.68;.70;.72;1"/></text>
-<text x="600.0" y="62" fill="url(#g)" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="46" text-anchor="middle" letter-spacing="4" filter="url(#glow)">LIVE STATS</text>
-<text x="600.0" y="92" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" letter-spacing="5" fill="#9d8cd8">04 &#47;&#47; THE NUMBERS</text>
-<rect x="0" y="106" width="1200" height="2" fill="url(#beam)" opacity=".8"/>
-<rect y="105" width="160" height="4" rx="2" fill="#fff" filter="url(#glow)"><animate attributeName="x" values="-160;1200" dur="3.2s" repeatCount="indefinite"/></rect>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="LIVE STATS">
+<g><animateTransform attributeName="transform" type="rotate" values="-1.2 600 60;1.2 600 60;-1.2 600 60" dur="4s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1"/>
+<rect x="388" y="36" width="440" height="64" rx="32" fill="#1b1b2f"/>
+<rect x="380" y="28" width="440" height="64" rx="32" fill="#3ddc97" stroke="#1b1b2f" stroke-width="5"/>
+<circle cx="418" cy="60" r="24" fill="#fff" stroke="#1b1b2f" stroke-width="5"/>
+<text x="418" y="67" text-anchor="middle" font-family="'Arial Rounded MT Bold','Trebuchet MS',Verdana,'Segoe UI',Arial,sans-serif" font-weight="900" font-size="20" fill="#1b1b2f">04</text>
+<text x="630" y="74" text-anchor="middle" font-family="'Arial Rounded MT Bold','Trebuchet MS',Verdana,'Segoe UI',Arial,sans-serif" font-weight="900" font-size="38" letter-spacing="2" fill="#fff" stroke="#1b1b2f" stroke-width="8" stroke-linejoin="round" paint-order="stroke">LIVE STATS</text>
+</g></svg>
