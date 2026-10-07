@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="WHO AM I">
+<g><animateTransform attributeName="transform" type="rotate" values="-1.2 600 60;1.2 600 60;-1.2 600 60" dur="4s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1"/>
+<rect x="417" y="36" width="382" height="64" rx="32" fill="#1b1b2f"/>
+<rect x="409" y="28" width="382" height="64" rx="32" fill="#ff6b6b" stroke="#1b1b2f" stroke-width="5"/>
+<circle cx="447" cy="60" r="24" fill="#fff" stroke="#1b1b2f" stroke-width="5"/>
+<text x="447" y="67" text-anchor="middle" font-family="'Arial Rounded MT Bold','Trebuchet MS',Verdana,'Segoe UI',Arial,sans-serif" font-weight="900" font-size="20" fill="#1b1b2f">01</text>
+<text x="630" y="74" text-anchor="middle" font-family="'Arial Rounded MT Bold','Trebuchet MS',Verdana,'Segoe UI',Arial,sans-serif" font-weight="900" font-size="38" letter-spacing="2" fill="#fff" stroke="#1b1b2f" stroke-width="8" stroke-linejoin="round" paint-order="stroke">WHO AM I</text>
+</g></svg>
