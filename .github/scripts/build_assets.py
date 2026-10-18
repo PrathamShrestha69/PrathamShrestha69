@@ -160,7 +160,7 @@ def reveal(inner, delay, dy=10, dur=.6):
 def header():
     H = 480
     t = Typer()
-    end = t.line(64, 108, prompt_segs("neofetch"), 20, .4, cps=22)
+    end = t.line(64, 108, prompt_segs("git fetch"), 20, .4, cps=22)
     end = t.line(64, 142, [("Fetching . . .", DIM)], 14, end + .25, cps=14)
     rows = [("Name", "Pratham Shrestha"), ("Role", "Full-Stack Developer"), ("Based", "Kathmandu, Nepal"),
             ("Now", "Frontend Developer @ Prixa"), ("Stack", "React · Next.js · TypeScript · Node.js"), ("Mood", "Delusional")]
@@ -175,7 +175,7 @@ def header():
     logo = wire(4, [(0, 3, 1, 0), (1, 3, 2, 0), (0, 2, 1, .4), (1, 2, 2, 0)], 270, 290, 118, 2.6, 120, 24,
                 CYAN, [GREEN], TXT, sw=2, fade_in=2.2)
     svg = doc(H, f'<rect width="{W}" height="{H}" fill="{BG}" rx="0"/>' + window(24, 20, 1152, 440, "pratham@shrestha: ~") + body + logo +
-              reveal(swatches, t0 + .1), defs, "Terminal: neofetch for Pratham Shrestha, Full-Stack Developer from Nepal")
+              reveal(swatches, t0 + .1), defs, "Terminal: git fetch for Pratham Shrestha, Full-Stack Developer from Nepal")
     write("header.svg", svg)
 
 

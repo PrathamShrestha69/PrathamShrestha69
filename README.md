@@ -1,4 +1,4 @@
-<img src="assets/header.svg" alt="neofetch: Pratham Shrestha, Full-Stack Developer from Nepal" width="100%" />
+<img src="assets/header.svg" alt="git fetch: Pratham Shrestha, Full-Stack Developer from Nepal" width="100%" />
 
 <p align="center">
   <a href="https://www.prathamshrestha69.com.np"><img src="https://img.shields.io/badge/portfolio-prathamshrestha69.com.np-3fb950?style=flat-square&labelColor=161b22" alt="Portfolio" /></a>
