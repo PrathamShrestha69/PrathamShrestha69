@@ -41,17 +41,17 @@
 <img src="assets/prompt-metrics.svg" alt="$ gh metrics --live" width="100%" />
 
 <p align="center">
-  <img src="metrics/isocalendar.svg" alt="Isometric 3D contribution calendar" width="100%" />
+  <img src="https://metrics.lecoq.io/PrathamShrestha69?template=classic&config.timezone=Asia%2FKathmandu&base=0&isocalendar=1&isocalendar.duration=full-year" alt="Isometric 3D contribution calendar" width="100%" />
 </p>
 <p align="center">
-  <img src="metrics/overview.svg" alt="GitHub overview" width="100%" />
+  <img src="https://metrics.lecoq.io/PrathamShrestha69?template=classic&config.timezone=Asia%2FKathmandu&base=header%2Cactivity%2Ccommunity%2Crepositories" alt="GitHub overview" width="100%" />
 </p>
 <p align="center">
-  <img src="metrics/languages.svg" alt="Most used languages" width="49%" />
-  <img src="metrics/habits.svg" alt="Coding habits" width="49%" />
+  <img src="https://metrics.lecoq.io/PrathamShrestha69?template=classic&config.timezone=Asia%2FKathmandu&base=0&languages=1&languages.sections=most-used&languages.limit=6&languages.details=bytes-size%2Cpercentage" alt="Most used languages" width="49%" />
+  <img src="https://metrics.lecoq.io/PrathamShrestha69?template=classic&config.timezone=Asia%2FKathmandu&base=0&habits=1&habits.from=200&habits.days=14&habits.facts=1" alt="Coding habits" width="49%" />
 </p>
 <p align="center">
-  <img src="metrics/achievements.svg" alt="GitHub achievements" width="100%" />
+  <img src="https://metrics.lecoq.io/PrathamShrestha69?template=classic&config.timezone=Asia%2FKathmandu&base=0&achievements=1&achievements.display=compact&achievements.threshold=C&achievements.limit=12" alt="GitHub achievements" width="100%" />
 </p>
 
 <img src="assets/footer.svg" alt="thanks for visiting" width="100%" />

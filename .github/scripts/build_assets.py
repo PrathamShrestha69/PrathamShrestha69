@@ -135,7 +135,7 @@ class Typer:
 
 
 def prompt_segs(cmd, path="~"):
-    return [("pratham@nepal", GREEN), (":", TXT), (path, CYAN), ("$ ", TXT), (cmd, TXT)]
+    return [("pratham@shrestha", GREEN), (":", TXT), (path, CYAN), ("$ ", TXT), (cmd, TXT)]
 
 
 def window(x, y, w, h, title):
@@ -165,8 +165,8 @@ def header():
     rows = [("Name", "Pratham Shrestha"), ("Role", "Full-Stack Developer"), ("Based", "Kathmandu, Nepal"),
             ("Now", "Frontend Developer @ Prixa"), ("Stack", "React · Next.js · TypeScript · Node.js"), ("Mood", "Delusional")]
     t0 = end + .3
-    t0 = t.line(520, 200, [("pratham", GREEN), ("@", TXT), ("nepal", GREEN)], 24, t0, cps=26)
-    t0 = t.line(520, 218, [("─" * 30, DIM)], 14, t0 + .02, cps=120)
+    t0 = t.line(520, 200, [("pratham", GREEN), ("@", TXT), ("shrestha", GREEN)], 24, t0, cps=26)
+    t0 = t.line(520, 218, [("─" * 16, DIM)], 14, t0 + .02, cps=120)
     for i, (k, v) in enumerate(rows):
         t0 = t.line(520, 262 + i * 32, [(k.ljust(7), CYAN), (": ", DIM), (v, TXT)], 19, t0 + .05, cps=70)
     defs, body = t.out()
@@ -174,7 +174,7 @@ def header():
                        for i, c in enumerate([RED, ORANGE, YEL, GREEN, CYAN, PURPLE, TXT, DIM]))
     logo = wire(4, [(0, 3, 1, 0), (1, 3, 2, 0), (0, 2, 1, .4), (1, 2, 2, 0)], 270, 290, 118, 2.6, 120, 24,
                 CYAN, [GREEN], TXT, sw=2, fade_in=2.2)
-    svg = doc(H, f'<rect width="{W}" height="{H}" fill="{BG}" rx="0"/>' + window(24, 20, 1152, 440, "pratham@nepal: ~") + body + logo +
+    svg = doc(H, f'<rect width="{W}" height="{H}" fill="{BG}" rx="0"/>' + window(24, 20, 1152, 440, "pratham@shrestha: ~") + body + logo +
               reveal(swatches, t0 + .1), defs, "Terminal: neofetch for Pratham Shrestha, Full-Stack Developer from Nepal")
     write("header.svg", svg)
 

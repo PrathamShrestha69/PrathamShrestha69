@@ -1,4 +1,5 @@
-# Generates the GitHub metrics SVGs shown in README.md using lowlighter/metrics.
+# Optional self-hosted version of the metrics shown in README.md (the README currently uses the
+# public lowlighter instance). To switch, point the README images at metrics/*.svg.
 # Setup: create a classic personal access token (scopes: read:org, read:user, repo)
 # and save it as the repository secret METRICS_TOKEN, then run this workflow once.
 name: Metrics
