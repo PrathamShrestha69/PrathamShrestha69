@@ -190,10 +190,10 @@ def prompt(slug, cmd, path):
 # -------------------------------------------------------------- PROJECTS
 PROJECTS = [
     ("inmark-ai", "Next.js · Tiptap · Motion · Claude", "inmark.ai"),
-    ("ochi-clone", "React · Tailwind · GSAP · Motion", "orchi.prathamshrestha69.com.np"),
+    ("sports-web", "live on Vercel", "sports-web-two-orcin.vercel.app"),
+    ("sunrise-dental", "live on Vercel", "sunrise-dental-ashy.vercel.app"),
+    ("blackfire-studio", "live on Vercel", "blackfire-studio.vercel.app"),
     ("e-commerce", "React · Tailwind · GSAP", "e-commerce-omega-taupe-84.vercel.app"),
-    ("interview-ai", "React · Express · Node.js · MongoDB", "gdg-hackathon-frontend.vercel.app"),
-    ("susan-portfolio", "React · Tailwind · GSAP", "susanshrestha404.com.np"),
 ]
 
 
@@ -207,7 +207,7 @@ def projects():
                f'<text x="450" y="{y}" font-family="{MONO}" font-size="16" fill="{MUTED}">{esc(stack)}</text>'
                f'<text x="800" y="{y}" font-family="{MONO}" font-size="16" fill="{GREEN}">↗ {esc(dom)}</text>')
         out += reveal(row, .4 + i * .18, 8, .5)
-    write("projects.svg", doc(H, f'<rect width="{W}" height="{H}" fill="{BG}"/>' + out, label="Projects: inmark-ai, ochi-clone, e-commerce, interview-ai, susan-portfolio"))
+    write("projects.svg", doc(H, f'<rect width="{W}" height="{H}" fill="{BG}"/>' + out, label="Projects: inmark-ai, sports-web, sunrise-dental, blackfire-studio, e-commerce"))
 
 
 # ----------------------------------------------------------------- GIT LOG
